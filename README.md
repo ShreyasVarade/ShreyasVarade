@@ -11,11 +11,11 @@
 
 <div align="center">
  
- 🔭 Currently, I'm diving deep into *Data Analyst/Science*
+ 🔭 Currently, I'm diving deep into *Java and Development(Backend)*
  
- 🌱 I’m currently learning *Machine Learning, Natural language Processing, Deep Learning, Operating System(OS), Linux*
+ 🌱 I’m currently learning *Java, Operating System(OS), Linux*
 
- 👯 I’m looking to collaborate on Data Science/Analyst/OS Projects
+ 👯 I’m looking to collaborate on Java based Projects
 
  💻 Check my Projects and other Repos [HERE.](https://github.com/ShreyasVarade?tab=repositories)
 
